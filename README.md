@@ -1,5 +1,3 @@
-Perfect, Avunoori — based on your detailed project statement, milestones, and the GitHub README style you shared, here’s a polished, mentor-ready `README.md` draft tailored to your **Smart Energy Consumption Analysis and Prediction** project. It mirrors the structure and clarity of the example you uploaded:
-
 ---
 
 # ⚡ Smart Energy Consumption Analysis and Prediction
