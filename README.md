@@ -10,7 +10,6 @@ This project presents a Smart Energy Consumption Analysis System that monitors d
 ## 📊 Dataset Description  
 - **Source**: SmartHome Energy Monitoring Dataset  
 - **Duration**: 6 months of timestamped device-level power readings  
-- **Granularity**: Hourly readings across multiple devices and rooms  
 - **Format**: Structured CSV with datetime, device ID, room, and kWh consumption  
 - **Additional Features**: Outdoor temperature, day of week, hour of day
 
