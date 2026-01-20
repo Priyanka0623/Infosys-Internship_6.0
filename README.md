@@ -119,15 +119,5 @@ pip install pandas scikit-learn tensorflow flask matplotlib
 
 ---
 
-## 📄 License  
-MIT License — Free to use for educational and research purposes.
 
----
-
-## 📬 Contact  
-- **Email**: avunoori.energyproject@gmail.com  
-- **LinkedIn**: linkedin.com/in/avunoori  
-- **GitHub**: github.com/AvunooriEnergy
-
----
 
